@@ -1,0 +1,367 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#f7c1c1",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+	,{
+		"path": "pages/caozuorizhi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "操作日志展示"
+		}
+	},{
+		"path": "pages/caozuorizhi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的操作日志"
+		}
+	},{
+		"path": "pages/caozuorizhi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "操作日志添加/修改"
+		}
+	},{
+		"path": "pages/caozuorizhi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "操作日志详情"
+		}
+	}
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/gonggao/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/gonggao/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告信息"
+		}
+	},{
+		"path": "pages/gonggao/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加/修改"
+		}
+	},{
+		"path": "pages/gonggao/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯信息展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的资讯信息"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯信息添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "资讯信息详情"
+		}
+	}
+	,{
+		"path": "pages/tongzhi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知展示"
+		}
+	},{
+		"path": "pages/tongzhi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的通知"
+		}
+	},{
+		"path": "pages/tongzhi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知添加/修改"
+		}
+	},{
+		"path": "pages/tongzhi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "通知详情"
+		}
+	}
+	,{
+		"path": "pages/yinyue/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐展示"
+		}
+	},{
+		"path": "pages/yinyue/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的音乐"
+		}
+	},{
+		"path": "pages/yinyue/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐添加/修改"
+		}
+	},{
+		"path": "pages/yinyue/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐详情"
+		}
+	}
+	,{
+		"path": "pages/yinyueCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐收藏展示"
+		}
+	},{
+		"path": "pages/yinyueCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的音乐收藏"
+		}
+	},{
+		"path": "pages/yinyueCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐收藏添加/修改"
+		}
+	},{
+		"path": "pages/yinyueCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐收藏详情"
+		}
+	}
+	,{
+		"path": "pages/yinyueLiuyan/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐评论展示"
+		}
+	},{
+		"path": "pages/yinyueLiuyan/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的音乐评论"
+		}
+	},{
+		"path": "pages/yinyueLiuyan/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐评论添加/修改"
+		}
+	},{
+		"path": "pages/yinyueLiuyan/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐评论详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#f7c1c1",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "音乐播放器小程序首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "音乐播放器小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#8cd9b7",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/gonggao/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "公告信息"
+			}
+			,{
+				"pagePath": "pages/yinyue/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "音乐"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#f7c1c1",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "资讯信息添加/修改",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
